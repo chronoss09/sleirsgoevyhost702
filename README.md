@@ -1,1 +1,1 @@
-# last-sleirsgoevy-host
+# last-sleirsgoevy-host for 7.02
