@@ -2,7 +2,7 @@
 <body onload="go()">
 <script>
 if(document.cookie.indexOf('kex=0') >= 0)
-    document.location.href = 'index702.html';
+    document.location.href = 'index.html';
 </script>
 <script>
 function print(){}
@@ -24,11 +24,11 @@ function done()
 {
     if(main_ret == 0 || main_ret == 179)
     {
-        alert("You're all set!\n PRESS OK AND CLOSE THE WEBBROWSER BY PRESSING PS BOUTON");
+        alert("You're all set!");
         read_ptr_at(0);
     }
     else
-        alert("Jailbreak failed! Reboot your PS4 and try again or refresh the page.");
+        alert("Jailbreak failed! Reboot your PS4 and try again.");
 }
 
 window.midExploit = function()
