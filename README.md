@@ -1,5 +1,8 @@
 # last sleirsgoevy host for 7.02
 
+# v6.2
+    New look for control fan
+
 # v6
     Deleted some message to make the webkit more clear to receive more payload
 	Add GTA Mods ported by Karo
