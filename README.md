@@ -3,14 +3,16 @@
 Test page go here : https://chronoss09.github.io/sleirsgoevyhost702
 
 # Changelog v7 :
-    Adress changed from https://chronoss09.github.io/last-sleirsgoevy-host-7.02/ to https://chronoss09.github.io/sleirsgoevyhost702
+    Adress changed from :
+    	- https://chronoss09.github.io/last-sleirsgoevy-host-7.02/ to
+		- https://chronoss09.github.io/sleirsgoevyhost702
     Add HEN 2.1.3b ported by @karo
     Add VR payload
     Add PS4 Trainer section :
 	  Payload from ChendoChap exploit
 	  Payload from Sleisgoevy exploit
 	  PS4 Trainer online (need internet connexion)
-    And many other...
+    And many others paylod...
 
 # v6.3
     minor change...
