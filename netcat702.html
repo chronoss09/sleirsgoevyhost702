@@ -29,7 +29,7 @@ function done()
 {
     if(main_ret == 0 || main_ret == 179)
     {
-        alert("You're all set!");
+        alert("You're all set, you can now send your payload on port 9020");
         read_ptr_at(0);
     }
     else
@@ -38,7 +38,7 @@ function done()
 
 window.midExploit = function()
 {
-    preloadScripts(['702.js', 'jb702/c-code.js', 'mira702/c-code.js'], go);
+    preloadScripts(['702.js', 'c-code_jb702.js', 'mira.js', 'c-code.js'], go);
 }
 
 window.postExploit = function()
@@ -51,14 +51,11 @@ window.postExploit = function()
     }, 100);
 };
 </script>
-<script src="webkit-7.02/external/utils.js"></script>
-<script src="webkit-7.02/external/int64.js"></script>
-<script src="webkit-7.02/external/ps4.js"></script>
+<script src="utils.js"></script>
+<script src="int64.js"></script>
+<script src="ps4.js"></script>
 <button id="input1" onfocus="handle2()"></button>
 <button id="input2"></button>
 <button id="input3" onfocus="handle2()"></button>
-<select id="select1">
-<option value="value1">Value1</option>
-</select>
 </body>
 </html>
