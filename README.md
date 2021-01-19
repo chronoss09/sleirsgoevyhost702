@@ -12,6 +12,7 @@ Test page go here : https://chronoss09.github.io/sleirsgoevyhost702
 	  Payload from ChendoChap exploit
 	  Payload from Sleisgoevy exploit
 	  PS4 Trainer online (need internet connexion)
+    Thanks to x_force_505 for the new Fan Threshold bar
     And many others paylod...
 
 # v6.3
